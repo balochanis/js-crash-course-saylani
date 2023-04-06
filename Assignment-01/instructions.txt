@@ -1,0 +1,9 @@
+Hello Class, 
+I hope y'all are doing well. This is to inform you that we have a new assignment. The assignment is about writing a greeting program in JavaScript 
+REQUIREMENTS:
+1. Ask user about her/his age through prompt
+2. If the user is 10 year old or younger it should print "Welcome"
+3. If the user is over 10 print "You are not allowed"
+You have to do the assignment by using conditional statements (if-else). The deadline of assignment is Tomorrow. 
+Thankyou
+Assignment submission ki details ap sb ko kal de di jayengi.
